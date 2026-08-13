@@ -1,4 +1,4 @@
-# 📊 Excel Day 3 – Lookup & Conditional Functions
+# 📊 Lookup & Conditional Functions
 
 ## 📌 Overview
 

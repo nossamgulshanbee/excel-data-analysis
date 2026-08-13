@@ -1,4 +1,4 @@
-# Excel Day 2 - Sales Performance Analysis
+# Sales Performance Analysis
 
 ## 📌 Project Overview
 

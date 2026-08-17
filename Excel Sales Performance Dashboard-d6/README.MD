@@ -373,17 +373,6 @@ or approximately:
 * Number Formatting
 * Dashboard Design
 
----
-
-# 📁 Project Structure
-
-```text
-excel-sales-performance-dashboard/
-│
-├── Sales_Performance_Analysis.xlsx
-│
-└── README.md
-```
 
 ---
 
@@ -419,8 +408,4 @@ This project strengthened my practical Excel skills for **Data Analytics and Bus
 
 ---
 
-## 📌 Project
 
-**Excel Day 6 — Sales Performance Analysis Dashboard**
-
-**GitHub Repository:** `excel-sales-performance-dashboard`
